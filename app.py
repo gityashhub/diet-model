@@ -148,7 +148,7 @@ def set_background():
         f"""
         <style>
         .stApp {{
-            background-image: url("https://img.freepik.com/premium-photo/healthy-food-fruits-vegetables-isolated-blue-background_392895-1057.jpg");
+            background-image: url("https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1400&q=80");
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
